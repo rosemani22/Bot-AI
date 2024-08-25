@@ -10,7 +10,7 @@ Can maintain multiple chats.
 Can navigate through chats and can delete the chats
 
 ChatBot 
-![image Description](chatbot/src/chatbotai.png)
+![image Description](./src/chatbotai.png)
 
 Getting Started : 
 Prerequisites
@@ -19,14 +19,21 @@ Make sure you have Node.js and npm installed on your machine.
 Installation
 Clone the repository:
 git clone https://github.com/rosemani22/Bot-AI.git
+
 Navigate to the project directory:
+
 Frontend
 cd bot-ai
+
 Install dependencies:
 npm install
+
 Running the Application
+
 Start the development server:
 npm start
+
 Open http://localhost:3000 in your web browser to view the application.
 Live web URL
+
 Fronted: https://bot-ai-eight-lilac.vercel.app/
